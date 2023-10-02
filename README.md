@@ -2,7 +2,7 @@
 
 Fork of [Panya/svelte-intl](https://github.com/Panya/svelte-intl).
 
-[![NPM Version](https://img.shields.io/npm/v/svelte-intl.svg)](https://npm.im/svelte-intl)
+[![NPM Version](https://img.shields.io/npm/v/@isaac-m/svelte-intl.svg)](https://npm.im/@isaac-m/svelte-intl)
 
 Sizes (svelte-intl and format-message):
 
