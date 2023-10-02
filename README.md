@@ -1,5 +1,7 @@
 # svelte-intl
 
+Fork of [Panya/svelte-intl](https://github.com/Panya/svelte-intl).
+
 [![NPM Version](https://img.shields.io/npm/v/svelte-intl.svg)](https://npm.im/svelte-intl)
 
 Sizes (svelte-intl and format-message):
@@ -7,7 +9,7 @@ Sizes (svelte-intl and format-message):
 [![Package Size](https://badgen.net/bundlephobia/minzip/svelte-intl)](https://bundlephobia.com/result?p=svelte-intl@latest)
 [![Package Size](https://badgen.net/bundlephobia/minzip/format-message)](https://bundlephobia.com/result?p=format-message@latest)
 
-Internationalize your Svelte 3 apps using [format-message](https://github.com/format-message/format-message).
+Internationalize your Svelte 4 apps using [format-message](https://github.com/format-message/format-message).
 
 ## Svelte 2
 
