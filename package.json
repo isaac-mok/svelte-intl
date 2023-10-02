@@ -21,6 +21,9 @@
     "i18n"
   ],
   "author": "Cristóvão Trevisan <cristovao.trevisan@gmail.com>",
+  "contributors": [
+    "Isaac Mok <isaac.mok.kx@gmail.com>"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
